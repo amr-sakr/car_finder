@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Car Finder</string>
+    <string name="nav_host_fragment">nav_host_fragment</string>
+</resources>
